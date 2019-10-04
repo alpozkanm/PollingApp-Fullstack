@@ -20,7 +20,7 @@ import org.hibernate.annotations.NaturalId;
 
 @Entity
 @Table(name="users", uniqueConstraints  ={
-        @UniqueConstraint(columnNames = ={
+        @UniqueConstraint(columnNames = {
                 "username"
         }),
         @UniqueConstraint(columnNames = {
