@@ -1,0 +1,11 @@
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\config\SecurityConfig.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\model\audit\DateAudit.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\security\JwtAuthenticationEntryPoint.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\security\UserPrincipal.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\model\Role.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\repository\UserRepository.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\model\RoleName.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\model\User.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\repository\RoleRepository.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\config\AuditingConfig.java
+C:\java-repo\Polling App\Backend\polls\src\main\java\com\example\polls\PollsApplication.java
