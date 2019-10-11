@@ -2,6 +2,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 HELP.md
 target/
+/Backend/target
+/Backend/.mvn
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -110,6 +112,7 @@ fabric.properties
 *.war
 *.nar
 *.ear
+*.md
 *.zip
 *.tar.gz
 *.rar
